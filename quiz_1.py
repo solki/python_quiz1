@@ -2,7 +2,7 @@
 # and determines the length of the longest strictly increasing sequence and
 # the smallest most frequent element in the list.
 #
-# Writtten by *** and Eric Martin for COMP9021
+# Written by Xi Zhang and Eric Martin for COMP9021
 
 
 import sys
